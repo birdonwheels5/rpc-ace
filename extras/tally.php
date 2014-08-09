@@ -90,7 +90,7 @@ file_put_contents( $argv[1],
 					<center><img src=\"https://birdonwheel5.no-ip.org/logo.gif\"></center>
 					
 					<hr/>
-					<center><h1>Myriadcoin Rich List (Compiled daily @ 1AM EST)</h1></center>
+					<center><h1>Myriadcoin Rich List (Compiled daily @ 1 AM EST)</h1></center>
 					<hr/>
 					<p>
 						<h2><u>Top 100 Richest Myriadcoin Addresses</u></h2><br/<br/>
