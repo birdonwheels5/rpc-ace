@@ -12,7 +12,7 @@
 if( !isset($argv[1]) )
     die( "usage: php {$argv[0]} <output filename>\n" );
 
-$numAddresses = 100;
+$numAddresses = 1000;
 $txBufferSize = 150;
 
 $rpcUser = 'birdonwheels5';
@@ -115,7 +115,7 @@ file_put_contents( $argv[1],
 	
 	<body link=\"#E2E2E2\" vlink=\"#ADABAB\" style=\"background-image:url(http://birdspool.no-ip.org:5567/static/img/stars3.jpg);\">
 	
-	<center><div class="container">
+	<center><div class=\"container\">
 	
 		<header>
 		
